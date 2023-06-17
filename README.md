@@ -1,8 +1,8 @@
 ## Olá!
 
 
-- 🔭 Estou interessado em front-end 
-- 🌱 Estudo javascript
+- 🔭 Estou interessado em Desenvolvimento mobile 
+- 🌱 Estudo Flutter e dart
 
 <div>
   <a href="https://github.com/Matheus-MCHD">
