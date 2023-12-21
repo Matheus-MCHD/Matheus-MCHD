@@ -1,8 +1,8 @@
 ## Olá!
 
-
-- 🔭 Estou interessado em Desenvolvimento mobile 
-- 🌱 Estudo Flutter e dart
+- Em busca de aprender a programa e emprego na area.
+- 🔭 Estou interessado em Desenvolvimento Font-end e Back-end. 
+- 🌱 Estudo JavaScript e Python.
 
 <div>
   <a href="https://github.com/Matheus-MCHD">
